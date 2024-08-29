@@ -1,0 +1,45 @@
+
+.uppercase {
+    text-transform: uppercase;
+}
+#underline {
+    text-decoration: underline;
+}
+a {
+    color: pink;
+    background-color: purple;
+}
+a:hover {
+    color: aqua
+}
+
+a:visited {
+    color:brown;
+}
+
+div.font {
+    font-size: 40px;
+}
+
+#sentence {
+    text-align: center;
+}
+
+.box {
+    opacity: 0.82;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    background-image: url(alexis_image.jpg);
+    background-size: cover;
+    background-position: cover cover;
+    border-radius: 0 50% 0 59%;
+    box-shadow: 8px 8px 15px #565656;
+}
+
+.square {
+    font-size: 60px;
+    text-shadow: 3px 3px 5px purple;
+    background-color: black;
+}
+    
